@@ -5,5 +5,5 @@ def square_array(array)
   # shovel each element into the blank array created earlier
   array.each { |number| squared << number ** 2 }
   #return the array, after it's been filled
-  squared
+
 end
